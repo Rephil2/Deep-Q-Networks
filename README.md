@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://media.giphy.com/media/Hdgun57CnAvQs/giphy.gif" width="450">
+    <img alt="GitPoint" title="GitPoint" src="https://90sreviewer.com/wp-content/uploads/2018/10/Atari-2600-Logo.jpg" width="450">
   </a>
 </p>
 
