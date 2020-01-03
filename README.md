@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="Left"> Playing Basic Atari Games with a Deep Q-Network </h1> <br>
+<h1 align="center"> Playing Basic Atari Games with a Deep Q-Network </h1> <br>
 Playing Basic Atari Games with a Deep Q-Network
 
 
