@@ -1,4 +1,10 @@
-<h1 align="Left"> Deep-Q-Networks </h1> <br>
+<p align="center">
+  <a href="https://gitpoint.co/">
+    <img alt="GitPoint" title="GitPoint" src="https://media.giphy.com/media/Hdgun57CnAvQs/giphy.gif" width="450">
+  </a>
+</p>
+
+<h1 align="Left"> Playing Basic Atari Games with a Deep Q-Network </h1> <br>
 Playing Basic Atari Games with a Deep Q-Network
 
 
